@@ -1,4 +1,4 @@
-package com.springboot.api.config;
+package com.springboot.jpa.config;
 
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
